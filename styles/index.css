@@ -26,3 +26,6 @@
   .git {
     color: var(--text);
   }
+  body {
+    overflow: hidden;
+  }
